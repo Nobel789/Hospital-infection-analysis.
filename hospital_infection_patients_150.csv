@@ -1,0 +1,151 @@
+patient_id,month,department,diagnosis,procedure_group,device_used,age,length_of_stay_days,prevention_bundle_completed,risk_group,case_weight,expected_infection_risk,actual_infection,benchmark_infection_rate,overall_baseline_infection_rate
+I001,2026-01,ICU,Sepsis,Line Procedure,Ventilator,48,13,Yes,High,2.01,0.18,0,0.08,0.14666666666666667
+I002,2026-02,ICU,Respiratory Failure,Respiratory Support,Urinary Catheter,47,17,No,High,2.07,0.19,1,0.08,0.14666666666666667
+I003,2026-03,ICU,Shock,Respiratory Support,Central Line,55,9,Yes,High,2.07,0.12,0,0.08,0.14666666666666667
+I004,2026-04,ICU,Sepsis,Respiratory Support,Ventilator,45,18,Yes,Medium,2.1,0.1,0,0.08,0.14666666666666667
+I005,2026-05,ICU,Respiratory Failure,Critical Care,Ventilator,73,8,Yes,Medium,2.33,0.11,0,0.08,0.14666666666666667
+I006,2026-01,ICU,Shock,Respiratory Support,Central Line,46,14,Yes,High,2.18,0.15,1,0.08,0.14666666666666667
+I007,2026-02,ICU,Sepsis,Respiratory Support,Central Line,47,14,Yes,High,2.44,0.12,0,0.08,0.14666666666666667
+I008,2026-03,ICU,Respiratory Failure,Line Procedure,Ventilator,83,15,Yes,High,2.51,0.16,0,0.08,0.14666666666666667
+I009,2026-04,ICU,Shock,Respiratory Support,Urinary Catheter,72,20,Yes,High,2.14,0.15,0,0.08,0.14666666666666667
+I010,2026-05,ICU,Sepsis,Critical Care,Urinary Catheter,86,10,No,High,2.53,0.17,1,0.08,0.14666666666666667
+I011,2026-01,ICU,Respiratory Failure,Respiratory Support,Central Line,55,15,Yes,Medium,2.11,0.11,0,0.08,0.14666666666666667
+I012,2026-02,ICU,Shock,Line Procedure,Urinary Catheter,74,17,Yes,High,1.81,0.16,0,0.08,0.14666666666666667
+I013,2026-03,ICU,Sepsis,Line Procedure,Ventilator,85,16,Yes,High,2.6,0.14,0,0.08,0.14666666666666667
+I014,2026-04,ICU,Respiratory Failure,Line Procedure,Urinary Catheter,77,6,Yes,High,2.59,0.2,0,0.08,0.14666666666666667
+I015,2026-05,ICU,Shock,Line Procedure,Urinary Catheter,85,12,Yes,High,2.58,0.12,1,0.08,0.14666666666666667
+I016,2026-01,ICU,Sepsis,Line Procedure,Central Line,79,19,Yes,Medium,1.84,0.11,0,0.08,0.14666666666666667
+I017,2026-02,ICU,Respiratory Failure,Line Procedure,Central Line,57,5,Yes,High,2.35,0.2,0,0.08,0.14666666666666667
+I018,2026-03,ICU,Shock,Critical Care,Ventilator,85,18,Yes,High,2.29,0.15,0,0.08,0.14666666666666667
+I019,2026-04,ICU,Sepsis,Critical Care,Central Line,50,7,Yes,High,2.44,0.14,0,0.08,0.14666666666666667
+I020,2026-05,ICU,Respiratory Failure,Line Procedure,Ventilator,79,17,Yes,High,2.01,0.15,0,0.08,0.14666666666666667
+I021,2026-01,ICU,Shock,Line Procedure,Central Line,80,15,No,High,1.82,0.16,1,0.08,0.14666666666666667
+I022,2026-02,ICU,Sepsis,Respiratory Support,Ventilator,55,18,Yes,Medium,2.5,0.11,0,0.08,0.14666666666666667
+I023,2026-03,ICU,Respiratory Failure,Critical Care,Urinary Catheter,87,12,Yes,High,2.46,0.16,0,0.08,0.14666666666666667
+I024,2026-04,ICU,Shock,Line Procedure,Urinary Catheter,78,17,Yes,High,1.92,0.17,0,0.08,0.14666666666666667
+I025,2026-05,ICU,Sepsis,Critical Care,Central Line,63,17,Yes,High,2.23,0.13,0,0.08,0.14666666666666667
+I026,2026-01,ICU,Respiratory Failure,Line Procedure,Urinary Catheter,52,10,Yes,High,2.15,0.17,0,0.08,0.14666666666666667
+I027,2026-02,ICU,Shock,Line Procedure,Central Line,74,5,Yes,High,2.5,0.17,1,0.08,0.14666666666666667
+I028,2026-03,ICU,Sepsis,Line Procedure,Central Line,87,19,Yes,Medium,2.43,0.1,0,0.08,0.14666666666666667
+I029,2026-04,ICU,Respiratory Failure,Respiratory Support,Urinary Catheter,78,15,Yes,High,2.25,0.13,0,0.08,0.14666666666666667
+I030,2026-05,ICU,Shock,Respiratory Support,Ventilator,51,16,Yes,High,2.07,0.13,0,0.08,0.14666666666666667
+I031,2026-01,ICU,Sepsis,Line Procedure,Ventilator,77,12,Yes,Medium,2.01,0.1,0,0.08,0.14666666666666667
+I032,2026-02,ICU,Respiratory Failure,Respiratory Support,Ventilator,77,7,No,High,1.96,0.2,1,0.08,0.14666666666666667
+I033,2026-03,ICU,Shock,Respiratory Support,Central Line,46,11,Yes,High,1.98,0.16,0,0.08,0.14666666666666667
+I034,2026-04,ICU,Sepsis,Respiratory Support,Urinary Catheter,50,15,Yes,High,1.91,0.19,0,0.08,0.14666666666666667
+I035,2026-05,ICU,Respiratory Failure,Line Procedure,Central Line,79,9,Yes,High,2.38,0.18,0,0.08,0.14666666666666667
+I036,2026-01,ICU,Shock,Line Procedure,Central Line,61,20,Yes,High,2.53,0.18,0,0.08,0.14666666666666667
+I037,2026-02,ICU,Sepsis,Respiratory Support,Urinary Catheter,53,5,Yes,High,2.58,0.13,0,0.08,0.14666666666666667
+I038,2026-03,ICU,Respiratory Failure,Critical Care,Urinary Catheter,82,8,Yes,High,2.09,0.15,0,0.08,0.14666666666666667
+I039,2026-04,ICU,Shock,Line Procedure,Central Line,87,18,Yes,High,1.97,0.14,1,0.08,0.14666666666666667
+I040,2026-05,ICU,Sepsis,Critical Care,Central Line,57,10,Yes,High,2.47,0.14,0,0.08,0.14666666666666667
+I041,2026-01,ICU,Respiratory Failure,Line Procedure,Urinary Catheter,61,10,Yes,High,2.09,0.19,0,0.08,0.14666666666666667
+I042,2026-02,ICU,Shock,Respiratory Support,Urinary Catheter,52,13,Yes,High,2.06,0.19,0,0.08,0.14666666666666667
+I043,2026-03,ICU,Sepsis,Critical Care,Central Line,48,17,Yes,High,2.17,0.18,0,0.08,0.14666666666666667
+I044,2026-04,ICU,Respiratory Failure,Line Procedure,Urinary Catheter,65,12,Yes,High,2.01,0.14,0,0.08,0.14666666666666667
+I045,2026-05,ICU,Shock,Respiratory Support,Ventilator,81,16,Yes,High,2.16,0.16,0,0.08,0.14666666666666667
+I046,2026-01,ICU,Sepsis,Critical Care,Ventilator,62,15,Yes,High,1.9,0.14,1,0.08,0.14666666666666667
+I047,2026-02,ICU,Respiratory Failure,Respiratory Support,Central Line,76,9,Yes,High,1.83,0.2,0,0.08,0.14666666666666667
+I048,2026-03,ICU,Shock,Critical Care,Central Line,54,15,Yes,Medium,2.28,0.1,0,0.08,0.14666666666666667
+I049,2026-04,ICU,Sepsis,Respiratory Support,Urinary Catheter,77,14,Yes,Medium,2.52,0.1,0,0.08,0.14666666666666667
+I050,2026-05,ICU,Respiratory Failure,Critical Care,Urinary Catheter,69,12,Yes,High,2.5,0.13,0,0.08,0.14666666666666667
+I051,2026-01,Surgery,Orthopedic Surgery,Orthopedic Surgery,Urinary Catheter,51,7,Yes,Low,1.03,0.04,0,0.08,0.14666666666666667
+I052,2026-02,Surgery,Abdominal Surgery,Abdominal Surgery,None,68,4,Yes,Medium,1.03,0.07,0,0.08,0.14666666666666667
+I053,2026-03,Surgery,Cardiac Surgery,Cardiac Surgery,Central Line,73,13,No,Low,1.59,0.06,1,0.08,0.14666666666666667
+I054,2026-04,Surgery,Orthopedic Surgery,Orthopedic Surgery,None,80,9,Yes,Low,1.2,0.05,0,0.08,0.14666666666666667
+I055,2026-05,Surgery,Abdominal Surgery,Abdominal Surgery,Central Line,53,11,Yes,Medium,1.39,0.09,0,0.08,0.14666666666666667
+I056,2026-01,Surgery,Cardiac Surgery,Cardiac Surgery,Central Line,58,3,Yes,Low,1.66,0.06,0,0.08,0.14666666666666667
+I057,2026-02,Surgery,Orthopedic Surgery,Orthopedic Surgery,None,75,9,No,Medium,1.04,0.07,0,0.08,0.14666666666666667
+I058,2026-03,Surgery,Abdominal Surgery,Abdominal Surgery,Central Line,66,8,No,Medium,1.25,0.07,1,0.08,0.14666666666666667
+I059,2026-04,Surgery,Cardiac Surgery,Cardiac Surgery,None,37,5,Yes,Low,1.68,0.05,0,0.08,0.14666666666666667
+I060,2026-05,Surgery,Orthopedic Surgery,Orthopedic Surgery,Urinary Catheter,38,3,Yes,Low,1.65,0.04,0,0.08,0.14666666666666667
+I061,2026-01,Surgery,Abdominal Surgery,Abdominal Surgery,Central Line,66,7,Yes,Medium,1.02,0.1,0,0.08,0.14666666666666667
+I062,2026-02,Surgery,Cardiac Surgery,Cardiac Surgery,Urinary Catheter,40,13,Yes,Medium,1.49,0.1,0,0.08,0.14666666666666667
+I063,2026-03,Surgery,Orthopedic Surgery,Orthopedic Surgery,Urinary Catheter,44,3,No,Medium,1.47,0.09,1,0.08,0.14666666666666667
+I064,2026-04,Surgery,Abdominal Surgery,Abdominal Surgery,None,38,10,Yes,Medium,1.52,0.09,0,0.08,0.14666666666666667
+I065,2026-05,Surgery,Cardiac Surgery,Cardiac Surgery,Urinary Catheter,54,5,Yes,Medium,1.16,0.08,0,0.08,0.14666666666666667
+I066,2026-01,Surgery,Orthopedic Surgery,Orthopedic Surgery,Central Line,52,8,Yes,Low,1.13,0.04,0,0.08,0.14666666666666667
+I067,2026-02,Surgery,Abdominal Surgery,Abdominal Surgery,None,82,9,No,Medium,1.2,0.07,0,0.08,0.14666666666666667
+I068,2026-03,Surgery,Cardiac Surgery,Cardiac Surgery,None,71,3,No,Medium,1.09,0.1,1,0.08,0.14666666666666667
+I069,2026-04,Surgery,Orthopedic Surgery,Orthopedic Surgery,Central Line,47,10,Yes,Medium,1.01,0.07,0,0.08,0.14666666666666667
+I070,2026-05,Surgery,Abdominal Surgery,Abdominal Surgery,None,43,7,Yes,Low,1.27,0.04,0,0.08,0.14666666666666667
+I071,2026-01,Surgery,Cardiac Surgery,Cardiac Surgery,None,57,14,Yes,Low,1.41,0.06,0,0.08,0.14666666666666667
+I072,2026-02,Surgery,Orthopedic Surgery,Orthopedic Surgery,Central Line,30,14,Yes,Low,1.14,0.06,0,0.08,0.14666666666666667
+I073,2026-03,Surgery,Abdominal Surgery,Abdominal Surgery,Urinary Catheter,51,4,No,Medium,1.1,0.09,1,0.08,0.14666666666666667
+I074,2026-04,Surgery,Cardiac Surgery,Cardiac Surgery,None,35,14,Yes,Low,1.23,0.05,0,0.08,0.14666666666666667
+I075,2026-05,Surgery,Orthopedic Surgery,Orthopedic Surgery,Urinary Catheter,39,9,Yes,Medium,1.66,0.08,0,0.08,0.14666666666666667
+I076,2026-01,Surgery,Abdominal Surgery,Abdominal Surgery,None,28,2,Yes,Medium,1.08,0.08,0,0.08,0.14666666666666667
+I077,2026-02,Surgery,Cardiac Surgery,Cardiac Surgery,None,33,12,Yes,Medium,1.25,0.1,0,0.08,0.14666666666666667
+I078,2026-03,Surgery,Orthopedic Surgery,Orthopedic Surgery,None,77,5,No,Medium,1.16,0.07,1,0.08,0.14666666666666667
+I079,2026-04,Surgery,Abdominal Surgery,Abdominal Surgery,None,67,4,Yes,Low,1.47,0.06,0,0.08,0.14666666666666667
+I080,2026-05,Surgery,Cardiac Surgery,Cardiac Surgery,Urinary Catheter,67,8,Yes,Medium,1.55,0.09,0,0.08,0.14666666666666667
+I081,2026-01,Surgery,Orthopedic Surgery,Orthopedic Surgery,None,28,10,Yes,Low,1.08,0.05,0,0.08,0.14666666666666667
+I082,2026-02,Surgery,Abdominal Surgery,Abdominal Surgery,Central Line,40,4,Yes,Medium,1.55,0.09,0,0.08,0.14666666666666667
+I083,2026-03,Surgery,Cardiac Surgery,Cardiac Surgery,Central Line,63,14,No,Medium,1.6,0.09,1,0.08,0.14666666666666667
+I084,2026-04,Surgery,Orthopedic Surgery,Orthopedic Surgery,Central Line,41,8,Yes,Medium,1.26,0.08,0,0.08,0.14666666666666667
+I085,2026-05,Surgery,Abdominal Surgery,Abdominal Surgery,None,79,8,Yes,Low,1.42,0.06,0,0.08,0.14666666666666667
+I086,2026-01,Surgery,Cardiac Surgery,Cardiac Surgery,Urinary Catheter,69,2,Yes,Low,1.35,0.04,0,0.08,0.14666666666666667
+I087,2026-02,Surgery,Orthopedic Surgery,Orthopedic Surgery,Urinary Catheter,43,3,Yes,Medium,1.5,0.08,0,0.08,0.14666666666666667
+I088,2026-03,Surgery,Abdominal Surgery,Abdominal Surgery,Central Line,53,3,No,Medium,1.42,0.08,1,0.08,0.14666666666666667
+I089,2026-04,Surgery,Cardiac Surgery,Cardiac Surgery,Central Line,37,8,Yes,Low,1.47,0.05,0,0.08,0.14666666666666667
+I090,2026-05,Surgery,Orthopedic Surgery,Orthopedic Surgery,Urinary Catheter,71,7,Yes,Low,1.54,0.06,0,0.08,0.14666666666666667
+I091,2026-01,Surgery,Abdominal Surgery,Abdominal Surgery,Central Line,81,10,Yes,Low,1.11,0.04,0,0.08,0.14666666666666667
+I092,2026-02,Surgery,Cardiac Surgery,Cardiac Surgery,Central Line,71,2,Yes,Medium,1.47,0.09,0,0.08,0.14666666666666667
+I093,2026-03,Surgery,Orthopedic Surgery,Orthopedic Surgery,None,48,4,No,Medium,1.1,0.08,1,0.08,0.14666666666666667
+I094,2026-04,Surgery,Abdominal Surgery,Abdominal Surgery,None,31,6,Yes,Low,1.62,0.04,0,0.08,0.14666666666666667
+I095,2026-05,Surgery,Cardiac Surgery,Cardiac Surgery,Urinary Catheter,28,6,Yes,Low,1.09,0.06,0,0.08,0.14666666666666667
+I096,2026-01,Surgery,Orthopedic Surgery,Orthopedic Surgery,Central Line,64,6,Yes,Medium,1.55,0.09,0,0.08,0.14666666666666667
+I097,2026-02,Surgery,Abdominal Surgery,Abdominal Surgery,None,67,10,Yes,Low,1.68,0.06,0,0.08,0.14666666666666667
+I098,2026-03,Surgery,Cardiac Surgery,Cardiac Surgery,Central Line,76,14,No,Medium,1.61,0.1,1,0.08,0.14666666666666667
+I099,2026-04,Surgery,Orthopedic Surgery,Orthopedic Surgery,None,44,9,Yes,Medium,1.0,0.09,0,0.08,0.14666666666666667
+I100,2026-05,Surgery,Abdominal Surgery,Abdominal Surgery,Urinary Catheter,64,3,Yes,Medium,1.59,0.09,0,0.08,0.14666666666666667
+I101,2026-01,Pediatrics,Asthma,Medical Care,None,12,6,Yes,Low,0.79,0.04,0,0.08,0.14666666666666667
+I102,2026-02,Pediatrics,Respiratory Infection,Medical Care,IV Line,8,1,Yes,Low,1.0,0.02,0,0.08,0.14666666666666667
+I103,2026-03,Pediatrics,Fever,Respiratory Care,None,9,4,Yes,Low,1.01,0.02,0,0.08,0.14666666666666667
+I104,2026-04,Pediatrics,Asthma,Respiratory Care,Urinary Catheter,1,1,No,Low,0.73,0.02,1,0.08,0.14666666666666667
+I105,2026-05,Pediatrics,Respiratory Infection,Observation,IV Line,7,3,Yes,Low,0.87,0.05,0,0.08,0.14666666666666667
+I106,2026-01,Pediatrics,Fever,Respiratory Care,None,1,6,Yes,Low,0.74,0.06,0,0.08,0.14666666666666667
+I107,2026-02,Pediatrics,Asthma,Medical Care,IV Line,14,2,Yes,Low,0.81,0.05,0,0.08,0.14666666666666667
+I108,2026-03,Pediatrics,Respiratory Infection,Medical Care,Urinary Catheter,5,2,Yes,Low,0.87,0.06,0,0.08,0.14666666666666667
+I109,2026-04,Pediatrics,Fever,Medical Care,Urinary Catheter,3,4,Yes,Low,0.8,0.05,0,0.08,0.14666666666666667
+I110,2026-05,Pediatrics,Asthma,Respiratory Care,Urinary Catheter,14,6,Yes,Low,0.64,0.05,0,0.08,0.14666666666666667
+I111,2026-01,Pediatrics,Respiratory Infection,Medical Care,IV Line,7,1,No,Low,1.07,0.06,0,0.08,0.14666666666666667
+I112,2026-02,Pediatrics,Fever,Medical Care,Urinary Catheter,1,2,Yes,Low,0.68,0.05,0,0.08,0.14666666666666667
+I113,2026-03,Pediatrics,Asthma,Respiratory Care,None,4,6,Yes,Low,1.0,0.06,0,0.08,0.14666666666666667
+I114,2026-04,Pediatrics,Respiratory Infection,Medical Care,Urinary Catheter,13,3,Yes,Low,0.92,0.04,0,0.08,0.14666666666666667
+I115,2026-05,Pediatrics,Fever,Medical Care,Urinary Catheter,14,6,Yes,Low,0.64,0.03,0,0.08,0.14666666666666667
+I116,2026-01,Pediatrics,Asthma,Observation,Urinary Catheter,5,7,Yes,Low,0.89,0.03,0,0.08,0.14666666666666667
+I117,2026-02,Pediatrics,Respiratory Infection,Respiratory Care,IV Line,14,6,Yes,Low,0.81,0.03,0,0.08,0.14666666666666667
+I118,2026-03,Pediatrics,Fever,Observation,None,3,7,Yes,Low,0.9,0.03,0,0.08,0.14666666666666667
+I119,2026-04,Pediatrics,Asthma,Medical Care,Urinary Catheter,4,4,No,Low,0.91,0.05,1,0.08,0.14666666666666667
+I120,2026-05,Pediatrics,Respiratory Infection,Respiratory Care,IV Line,16,1,Yes,Low,1.0,0.04,0,0.08,0.14666666666666667
+I121,2026-01,Pediatrics,Fever,Observation,Urinary Catheter,10,7,Yes,Low,1.1,0.05,0,0.08,0.14666666666666667
+I122,2026-02,Pediatrics,Asthma,Medical Care,None,11,2,Yes,Low,0.79,0.04,0,0.08,0.14666666666666667
+I123,2026-03,Pediatrics,Respiratory Infection,Respiratory Care,IV Line,16,7,Yes,Low,0.93,0.06,0,0.08,0.14666666666666667
+I124,2026-04,Pediatrics,Fever,Respiratory Care,Urinary Catheter,3,2,Yes,Low,1.09,0.04,0,0.08,0.14666666666666667
+I125,2026-05,Pediatrics,Asthma,Observation,IV Line,4,7,Yes,Low,0.98,0.06,0,0.08,0.14666666666666667
+I126,2026-01,Pediatrics,Respiratory Infection,Observation,IV Line,16,3,No,Low,0.92,0.04,0,0.08,0.14666666666666667
+I127,2026-02,Pediatrics,Fever,Respiratory Care,Urinary Catheter,9,3,Yes,Low,0.69,0.02,0,0.08,0.14666666666666667
+I128,2026-03,Pediatrics,Asthma,Observation,Urinary Catheter,2,6,Yes,Low,0.99,0.03,0,0.08,0.14666666666666667
+I129,2026-04,Pediatrics,Respiratory Infection,Observation,None,2,2,Yes,Low,0.68,0.05,0,0.08,0.14666666666666667
+I130,2026-05,Pediatrics,Fever,Medical Care,Urinary Catheter,6,7,Yes,Low,0.85,0.05,0,0.08,0.14666666666666667
+I131,2026-01,Pediatrics,Asthma,Medical Care,Urinary Catheter,16,5,Yes,Low,0.84,0.03,0,0.08,0.14666666666666667
+I132,2026-02,Pediatrics,Respiratory Infection,Respiratory Care,None,15,2,Yes,Low,0.97,0.06,0,0.08,0.14666666666666667
+I133,2026-03,Pediatrics,Fever,Observation,None,13,3,Yes,Low,0.81,0.04,0,0.08,0.14666666666666667
+I134,2026-04,Pediatrics,Asthma,Respiratory Care,IV Line,3,3,Yes,Low,0.61,0.02,0,0.08,0.14666666666666667
+I135,2026-05,Pediatrics,Respiratory Infection,Medical Care,IV Line,12,3,No,Low,1.09,0.04,1,0.08,0.14666666666666667
+I136,2026-01,Pediatrics,Fever,Observation,Urinary Catheter,16,6,Yes,Low,0.77,0.03,0,0.08,0.14666666666666667
+I137,2026-02,Pediatrics,Asthma,Respiratory Care,Urinary Catheter,6,2,Yes,Low,0.7,0.05,0,0.08,0.14666666666666667
+I138,2026-03,Pediatrics,Respiratory Infection,Medical Care,Urinary Catheter,16,4,Yes,Low,0.77,0.05,0,0.08,0.14666666666666667
+I139,2026-04,Pediatrics,Fever,Observation,IV Line,5,3,Yes,Low,0.76,0.02,0,0.08,0.14666666666666667
+I140,2026-05,Pediatrics,Asthma,Medical Care,None,7,7,Yes,Low,0.88,0.06,0,0.08,0.14666666666666667
+I141,2026-01,Pediatrics,Respiratory Infection,Observation,IV Line,1,5,Yes,Low,0.81,0.05,0,0.08,0.14666666666666667
+I142,2026-02,Pediatrics,Fever,Medical Care,None,3,7,Yes,Low,0.77,0.03,0,0.08,0.14666666666666667
+I143,2026-03,Pediatrics,Asthma,Medical Care,IV Line,14,6,Yes,Low,0.8,0.03,0,0.08,0.14666666666666667
+I144,2026-04,Pediatrics,Respiratory Infection,Respiratory Care,None,13,1,Yes,Low,0.64,0.02,0,0.08,0.14666666666666667
+I145,2026-05,Pediatrics,Fever,Medical Care,None,6,2,Yes,Low,0.81,0.05,0,0.08,0.14666666666666667
+I146,2026-01,Pediatrics,Asthma,Respiratory Care,IV Line,15,6,Yes,Low,0.96,0.04,0,0.08,0.14666666666666667
+I147,2026-02,Pediatrics,Respiratory Infection,Respiratory Care,Urinary Catheter,4,3,Yes,Low,0.79,0.05,0,0.08,0.14666666666666667
+I148,2026-03,Pediatrics,Fever,Medical Care,IV Line,11,3,Yes,Low,0.77,0.03,0,0.08,0.14666666666666667
+I149,2026-04,Pediatrics,Asthma,Observation,IV Line,1,4,Yes,Low,0.76,0.05,0,0.08,0.14666666666666667
+I150,2026-05,Pediatrics,Respiratory Infection,Respiratory Care,Urinary Catheter,10,3,Yes,Low,0.68,0.04,0,0.08,0.14666666666666667

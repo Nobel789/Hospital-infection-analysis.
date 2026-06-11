@@ -1,0 +1,4 @@
+department,patients,actual_infections,expected_infections,raw_infection_rate,case_mix_index,adjusted_infection_rate,benchmark_infection_rate,variance_from_benchmark
+ICU,50,9,7.46,0.18,2.21,0.1769,0.08,0.0969
+Surgery,50,10,3.54,0.2,1.34,0.4143,0.08,0.3343
+Pediatrics,50,3,2.07,0.06,0.84,0.2126,0.08,0.1326
